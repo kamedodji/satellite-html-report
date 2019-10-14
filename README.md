@@ -35,3 +35,7 @@ How to use the template
     # hammer report-template generate --name "Satellite HTML Report Inventory" | \
 	tee /tmp/satellite-html-report.html
 
+Screenshots
+------------
+
+<img alt="Satellite HTML Report Inventor" src="docs/img/screenshot_hosts_statut.png">
