@@ -1,6 +1,7 @@
-|License|
 Satellite HTML report
 =====================
+
+![License](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg)
 
 INFORMATION
 -----------
@@ -49,6 +50,3 @@ Screenshot
 
 <img alt="Satellite HTML Report Inventor" src="docs/img/screenshot_hosts_statut.png">
 
-.. |License| image:: https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg
-   :target: COPYING
-   :alt: Repository License
